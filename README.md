@@ -70,3 +70,20 @@ Explore all coursework →
 
 Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate, network, or chat about data science. 🚀
 
+
+## 📊 GitHub Stats
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonkeck&show_icons=true&theme=tokyonight)
+
+
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkeck&layout=compact&theme=tokyonight)
+
+
+## 📈 Contribution Graph
+![Brandon's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brandonkeck&theme=tokyo-night)
+
+
+## 📊 GitHub Metrics
+![Metrics](https://github.com/brandonkeck/brandonkeck/blob/main/github-metrics.svg)
+
+
