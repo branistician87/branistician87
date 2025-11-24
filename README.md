@@ -64,8 +64,7 @@ Explore all coursework →
 ---
 
 ## 📬 Connect with Me
-- 💼 LinkedIn: *your link here*  
-- 📧 Email: *your email here*  
+- 💼 LinkedIn: *www.linkedin.com/in/brandon-keck-statistician*   
 
 ---
 
