@@ -1,3 +1,73 @@
-## Hi there, I'm Brandon Keck! 👋
+# Hi there, I'm Brandon Keck! 👋  
+🎓 *M.S. in Data Science | Applied Statistics | Machine Learning | Data Visualization*
 
-I'm currently pursuing my Master's in Data Science at CSU East Bay, with an expected graduation in May 2026. I'm focused on enhancing my data science skills, particularly in SQL, Tableau, and Power BI. I'm also strengthening my expertise in databases and analytical tools by working with MySQL and creating data visualizations using Matplotlib, Seaborn, Tableau, and Power BI. In the realm of machine learning, I'm exploring various techniques, including regression, clustering, decision trees, and random forests.🚀
+Welcome to my GitHub profile! I’m currently pursuing my Master’s in Data Science at **California State University, East Bay**, with an expected graduation in **May 2026**. My work focuses on applied statistics, predictive modeling, and building data-driven solutions using R, Python, SQL, and modern visualization tools.
+
+Here’s a snapshot of what I’ve been working on:
+
+---
+
+## 📊 Data Science & Statistical Modeling
+- ANOVA, regression modeling, bootstrapping, and resampling methods  
+- Predictive modeling and supervised learning techniques  
+- Hands-on academic projects across probability, statistical methods, and advanced R programming  
+- Building reproducible analyses with **R, R Markdown, and Quarto**
+
+📁 **Featured Coursework Repository:**  
+👉 [GradSchoolCoursework](https://github.com/branistician87/GradSchoolCoursework)
+
+---
+
+## 🛠 Technical Skills
+
+### **Languages**
+- **R** (tidyverse, ggplot2, boot, caret)
+- **Python** (pandas, NumPy, scikit-learn)
+- **SQL** (MySQL, PostgreSQL)
+
+### **Tools**
+- **RStudio**, **Git/GitHub**, **Tableau**, **Power BI**, **Jupyter**, **Visual Studio Code**
+
+### **Methods**
+- Exploratory data analysis  
+- Statistical inference & hypothesis testing  
+- Regression, classification, time series  
+- Resampling (bootstrap, jackknife, permutation tests)  
+- Machine learning workflows  
+
+---
+
+## 📚 Graduate Coursework (Selected)
+### **Fall 2024**
+- **STAT 620 — Probability Theory**
+- **STAT 630 — Statistical Methods**
+- **STAT 650 — Advanced R Programming**
+
+### **Spring 2025**
+*(to be updated…)*  
+- **STAT 631 — ANOVA**
+- **STAT 632 — Linear & Logistic Regression**
+- **STAT 641 — Bootstrapping**
+- **STAT 680 — Data Mining**
+
+Explore all coursework →  
+📁 [GradSchoolCoursework](https://github.com/branistician87/GradSchoolCoursework)
+
+---
+
+## 🌱 Currently Learning
+- Data engineering foundations  
+- Advanced SQL optimization  
+- Machine learning model tuning  
+- Tableau interactive dashboards  
+
+---
+
+## 📬 Connect with Me
+- 💼 LinkedIn: *your link here*  
+- 📧 Email: *your email here*  
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate, network, or chat about data science. 🚀
+
