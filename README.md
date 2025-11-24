@@ -1,4 +1,4 @@
-# Hi there, I'm Brandon Keck! 👋  
+# Hey what's up, I'm Brandon Keck! 
 🎓 *M.S. in Data Science | Applied Statistics | Machine Learning | Data Visualization*
 
 Welcome to my GitHub profile! I’m currently pursuing my Master’s in Data Science at **California State University, East Bay**, with an expected graduation in **May 2026**. My work focuses on applied statistics, predictive modeling, and building data-driven solutions using R, Python, SQL, and modern visualization tools.
