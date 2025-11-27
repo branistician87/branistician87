@@ -39,7 +39,7 @@ Here’s a snapshot of what I’ve been working on:
 
 ## 📚 Graduate Coursework (Selected)
 ### **Fall 2024**
-- **STAT 620 — Probability Theory**
+- **STAT 620 — Probability & Statisical Theory**
 - **STAT 630 — Statistical Methods**
 - **STAT 650 — Advanced R Programming**
 
@@ -52,6 +52,12 @@ Here’s a snapshot of what I’ve been working on:
 - **STAT 641 — Bootstrapping**
 - **STAT 651 — Data Visualization**
 
+### **Spring 2026**
+- **STAT 652 - Statistical Learning**
+- **STAT 653 - Statistical Natural Language Processing**
+- **STAT 692 - Comprehensive Exam**
+
+  
 Explore all coursework →  
 📁 [GradSchoolCoursework](https://github.com/branistician87/GradSchoolCoursework)
 
