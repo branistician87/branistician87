@@ -37,7 +37,7 @@ Here’s a snapshot of what I’ve been working on:
 
 ---
 
-## 📚 Graduate Coursework (Selected)
+## 📚 Graduate Coursework 
 ### **Fall 2024**
 - **STAT 620 — Probability & Statisical Theory**
 - **STAT 630 — Statistical Methods**
