@@ -44,11 +44,13 @@ Here’s a snapshot of what I’ve been working on:
 - **STAT 650 — Advanced R Programming**
 
 ### **Spring 2025**
-*(to be updated…)*  
-- **STAT 631 — ANOVA**
-- **STAT 632 — Linear & Logistic Regression**
+- **STAT 631 - ANOVA**
+- **STAT 632 - Linear & Logistic Regression**
+
+### **Fall 2025**
+- **STAT 640 — Advanced Statistical Theory**
 - **STAT 641 — Bootstrapping**
-- **STAT 680 — Data Mining**
+- **STAT 651 — Data Visualization**
 
 Explore all coursework →  
 📁 [GradSchoolCoursework](https://github.com/branistician87/GradSchoolCoursework)
