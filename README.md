@@ -79,20 +79,14 @@ Explore all coursework →
 Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate, network, or chat about data science. 🚀
 
 
-## 📊 GitHub Stats
+
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-## 🔥 Top Languages
 [![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-
-
-## 📈 Contribution Graph
 [![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branistician87&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ## 📊 GitHub Metrics
-![Metrics](https://github.com/brandonkeck/brandonkeck/blob/main/github-metrics.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=branistician87&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
