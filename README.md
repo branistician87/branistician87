@@ -80,7 +80,7 @@ Thanks for stopping by! Feel free to explore my repositories or reach out if you
 
 
 ## 📊 GitHub Stats
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonkeck&show_icons=true&theme=tokyonight)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ## 🔥 Top Languages
