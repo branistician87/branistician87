@@ -82,13 +82,14 @@ Thanks for stopping by! Feel free to explore my repositories or reach out if you
 ## 📊 GitHub Stats
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
 ## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkeck&layout=compact&theme=tokyonight)
+[![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 
 
 ## 📈 Contribution Graph
-![Brandon's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brandonkeck&theme=tokyo-night)
+[![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branistician87&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ## 📊 GitHub Metrics
