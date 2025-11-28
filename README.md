@@ -80,10 +80,10 @@ Thanks for stopping by! Feel free to explore my repositories or reach out if you
 
 
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branistician87&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branistician87&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=branistician87&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branistician87&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branistician87&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branistician87&theme=dracula&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ## 📊 GitHub Metrics
