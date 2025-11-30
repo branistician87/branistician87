@@ -80,13 +80,13 @@ Thanks for stopping by! Feel free to explore my repositories or reach out if you
 
 
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=branistician87&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branistician87&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branistician87&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branistician87&theme=dracula&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=branistician87&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branistician87&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branistician87&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branistician87&theme=transparent&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ## 📊 GitHub Metrics
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=branistician87&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=branistician87&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
