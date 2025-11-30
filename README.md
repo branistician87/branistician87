@@ -87,6 +87,6 @@ Thanks for stopping by! Feel free to explore my repositories or reach out if you
 
 
 ## 📊 GitHub Metrics
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=branistician87&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=branistician87&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
